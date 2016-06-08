@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:10.143164
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:19
 #+TITLE: 釋四分戒本序
 #+PROPERTY: CBETA_ID X40n0715
 #+PROPERTY: ID KR6k0147
